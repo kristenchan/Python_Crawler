@@ -22,10 +22,10 @@
 <p>
     <h3><b>課程講義</b></h3>
     <ul class="task-list">
-          <li><a href="https://drive.google.com/open?id=1b2vJPe8hSQvOje1lp6CSeyCLlDpq3kzn">Class 1</a> (12/13)</li>
-          <li>Class 2 (12/20)</li>
-          <li>Class 3 (12/27)</li>
-          <li>Class 4 (01/03)</li>
+          <li>2018.12.13 : <a href="https://drive.google.com/file/d/12cFD1_GANNKG4eW-XgxLoozj6nRQElqv/view?usp=sharing">Class 1</a></li>
+          <li>2018.12.20 : Class 2 </li>
+          <li>2018.12.27 : Class 3 </li>
+          <li>2019.01.03 : Class 4 </li>
     </ul>
 </p>
 <br>
