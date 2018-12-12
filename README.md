@@ -30,9 +30,6 @@ NTUB 程式設計課程
 </p>
 <p>
     <h3><b>作業</b></h3>
-    <ul class="task-list">
-          <li></li>
-    </ul>
 </p>
      
 <br>
