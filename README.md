@@ -22,10 +22,18 @@ NTUB 程式設計課程
 <p>
     <h3><b>課程講義</b></h3>
     <ul class="task-list">
-          <li><a href="https://kristenchan.github.io/Python-Data-Analysis/py_dataanalysis_ch0.slides.html">Class 1</a></li>
+          <li><a href="https://kristenchan.github.io/Python-Data-Analysis/py_dataanalysis_ch0.slides.html">Class 1</a> (12/13)</li>
+          <li><a >Class 2</a> (12/20)</li>
+          <li><a >Class 3</a> (12/27)</li>
+          <li><a >Class 4</a> (01/03)</li>
     </ul>
 </p>
 <p>
+    <h3><b>作業</b></h3>
+    <ul class="task-list">
+          <li></li>
+    </ul>
+</p>
      
 <br>
 <br>
