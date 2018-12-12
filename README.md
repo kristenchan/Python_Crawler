@@ -22,7 +22,7 @@
 <p>
     <h3><b>課程講義</b></h3>
     <ul class="task-list">
-          <li><a href="https://drive.google.com/open?id=1maqc_tpC3WZ4rb9ByUjiW3ksVyWfBpX6o">Class 1</a> (12/13)</li>
+          <li><a href="https://drive.google.com/open?id=1b2vJPe8hSQvOje1lp6CSeyCLlDpq3kzn">Class 1</a> (12/13)</li>
           <li>Class 2 (12/20)</li>
           <li>Class 3 (12/27)</li>
           <li>Class 4 (01/03)</li>
