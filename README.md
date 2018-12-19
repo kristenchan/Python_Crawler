@@ -23,12 +23,14 @@
     <h3><b>課程講義</b></h3>
     <ul class="task-list">
           <li>2018.12.13 : <a href="https://drive.google.com/file/d/12cFD1_GANNKG4eW-XgxLoozj6nRQElqv/view?usp=sharing">Class 1</a></li>
-          <li>2018.12.20 : Class 2 </li>
+          <li>2018.12.20 : <a href="https://drive.google.com/file/d/1FU1g1FD9zhjS3mbzZw_gTfyx6bp0OOKG/view?usp=sharing">Class 2</a></li>
           <li>2018.12.27 : Class 3 </li>
           <li>2019.01.03 : Class 4 </li>
     </ul>
 </p>
-<br>
+<p align="center">
+     <img src="https://raw.githubusercontent.com/kristenchan/Python_Crawler/master/connect.png" width="600px" >
+</p>     
 <br>
 <p>
     <h3><b>作業</b></h3>
