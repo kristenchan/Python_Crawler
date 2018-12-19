@@ -28,10 +28,11 @@
           <li>2019.01.03 : Class 4 </li>
     </ul>
 </p>
+<hr size="1">
+<br>
 <p align="center">
      <img src="https://raw.githubusercontent.com/kristenchan/Python_Crawler/master/connect.png" width="600px" >
 </p>     
-<br>
 <p>
     <h3><b>作業</b></h3>
 </p>
