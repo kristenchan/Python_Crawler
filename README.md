@@ -30,11 +30,11 @@
 </p>
 <hr size="1">
 <br>
-<p align="center">
+<p>
      <img src="https://raw.githubusercontent.com/kristenchan/Python_Crawler/master/connect.png" width="600px" >
 </p>     
 <p>
-    <h3><b>作業</b></h3>
+    <h3><b><a href="https://drive.google.com/open?id=1wP7PzazGsiIcYoNZXvUFr1uYjWRbcl-aZ0jvmfluxTw">作業成績</a></b></h3>
 </p>
      
 <br>
