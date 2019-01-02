@@ -25,7 +25,7 @@
           <li>2018.12.13 : <a href="https://drive.google.com/file/d/12cFD1_GANNKG4eW-XgxLoozj6nRQElqv/view?usp=sharing">Class 1</a></li>
           <li>2018.12.20 : <a href="https://drive.google.com/file/d/1FU1g1FD9zhjS3mbzZw_gTfyx6bp0OOKG/view?usp=sharing">Class 2</a></li>
           <li>2018.12.27 : <a href="https://drive.google.com/open?id=1ZMcJV470vE9IycLFihxanR9zm2XhRz8g">Class 3 </a> <a href="https://drive.google.com/open?id=1SOEOJElzU1Zzkt0K3fpGHLJ3ONFX0wcj">檔案</a></li>
-          <li>2019.01.03 : Class 4 </li>
+          <li>2019.01.03 : <a href="https://drive.google.com/file/d/1sRm58i23OptTwCKBXWPHU9NECZ9dMSnW/view?usp=sharing">Class 4 </a></li>
     </ul>
 </p>
 <hr size="1">
